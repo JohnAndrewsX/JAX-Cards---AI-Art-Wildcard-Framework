@@ -1,0 +1,10 @@
+bright red
+bright blue
+bright green
+bright yellow
+bright pink
+bright orange
+bright purple
+bright turquoise
+bright lime green
+bright magenta

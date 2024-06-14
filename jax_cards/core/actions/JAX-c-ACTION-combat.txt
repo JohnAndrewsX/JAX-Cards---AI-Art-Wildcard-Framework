@@ -1,0 +1,10 @@
+punching
+kicking
+blocking
+parrying
+dodging
+wrestling
+sword fighting
+shooting
+throwing
+grappling

@@ -1,0 +1,10 @@
+vulture
+hyena
+crow
+jackal
+blowfly
+coyote
+tasmanian devil
+marabou stork
+raccoon
+crab

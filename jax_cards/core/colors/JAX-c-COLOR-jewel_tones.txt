@@ -1,0 +1,10 @@
+emerald
+ruby
+sapphire
+amethyst
+topaz
+garnet
+aquamarine
+peridot
+tourmaline
+jade

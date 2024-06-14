@@ -1,0 +1,10 @@
+black
+white
+gray
+beige
+ivory
+taupe
+charcoal
+cream
+sand
+slate

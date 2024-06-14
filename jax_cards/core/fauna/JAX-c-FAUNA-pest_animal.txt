@@ -1,0 +1,10 @@
+rat
+mouse
+cockroach
+termite
+bed bug
+flea
+mosquito
+fly
+ant
+silverfish

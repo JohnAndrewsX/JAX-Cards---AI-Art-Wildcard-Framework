@@ -1,0 +1,10 @@
+pigeon
+rat
+squirrel
+raccoon
+opossum
+crow
+sparrow
+stray cat
+fox
+hedgehog

@@ -1,0 +1,10 @@
+butterfly
+bee
+dragonfly
+moth
+wasp
+housefly
+mosquito
+ladybug
+horsefly
+firefly

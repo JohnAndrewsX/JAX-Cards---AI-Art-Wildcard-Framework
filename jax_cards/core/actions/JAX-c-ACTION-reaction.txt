@@ -1,0 +1,10 @@
+smiling
+frowning
+gasping
+laughing
+crying
+shrugging
+nodding
+shaking head
+clapping
+yawning

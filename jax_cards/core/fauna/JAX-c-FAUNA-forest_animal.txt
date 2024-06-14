@@ -1,0 +1,10 @@
+deer
+fox
+wolf
+bear
+squirrel
+owl
+woodpecker
+boar
+lynx
+hedgehog

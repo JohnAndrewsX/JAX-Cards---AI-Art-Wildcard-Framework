@@ -1,0 +1,10 @@
+trout
+catfish
+bass
+pike
+carp
+freshwater turtle
+otter
+beaver
+frog
+freshwater crab

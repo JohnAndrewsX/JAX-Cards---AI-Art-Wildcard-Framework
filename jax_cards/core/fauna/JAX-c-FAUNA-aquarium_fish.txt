@@ -1,0 +1,10 @@
+goldfish
+guppy
+betta fish
+neon tetra
+angelfish
+clownfish
+discus
+koi
+corydoras
+plecostomus

@@ -1,0 +1,10 @@
+dog
+cat
+cow
+sheep
+goat
+horse
+pig
+chicken
+duck
+llama

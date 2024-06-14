@@ -1,0 +1,3 @@
+__JAX-c-COLOR-pastel__
+__JAX-c-COLOR-metallic__
+__JAX-c-COLOR-jewel_tones__

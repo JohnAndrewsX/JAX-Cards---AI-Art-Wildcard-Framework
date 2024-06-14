@@ -1,0 +1,10 @@
+forest green
+sky blue
+sand
+ocean blue
+stone gray
+earth brown
+sunset orange
+leaf green
+cloud white
+desert tan

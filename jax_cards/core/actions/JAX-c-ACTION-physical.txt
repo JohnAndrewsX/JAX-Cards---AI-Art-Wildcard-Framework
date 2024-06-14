@@ -1,0 +1,10 @@
+running
+jumping
+swimming
+climbing
+dancing
+lifting
+throwing
+walking
+kicking
+punching

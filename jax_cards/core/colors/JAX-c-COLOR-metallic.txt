@@ -1,0 +1,10 @@
+gold
+silver
+bronze
+copper
+platinum
+steel
+brass
+titanium
+nickel
+chrome

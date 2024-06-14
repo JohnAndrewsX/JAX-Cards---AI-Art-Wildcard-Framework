@@ -1,0 +1,10 @@
+dog
+cat
+hamster
+guinea pig
+rabbit
+parrot
+goldfish
+ferret
+turtle
+chinchilla

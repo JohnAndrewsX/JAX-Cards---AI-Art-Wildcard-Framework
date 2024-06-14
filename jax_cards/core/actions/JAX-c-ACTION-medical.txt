@@ -1,0 +1,10 @@
+examining patients
+taking vitals
+administering medication
+performing surgery
+diagnosing illnesses
+conducting tests
+prescribing treatments
+giving vaccinations
+providing therapy
+monitoring recovery

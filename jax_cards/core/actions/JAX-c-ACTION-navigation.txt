@@ -1,0 +1,10 @@
+using a map
+reading a compass
+plotting a course
+using GPS
+navigating by stars
+calculating distances
+estimating travel time
+avoiding obstacles
+planning routes
+updating maps

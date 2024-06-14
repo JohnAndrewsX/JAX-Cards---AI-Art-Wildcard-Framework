@@ -1,0 +1,10 @@
+muted purple
+muted blue
+muted green
+muted pink
+muted brown
+muted yellow
+muted orange
+muted gray
+muted red
+muted teal

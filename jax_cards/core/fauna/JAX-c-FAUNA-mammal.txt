@@ -1,0 +1,10 @@
+lion
+tiger
+bear
+elephant
+wolf
+fox
+monkey
+kangaroo
+bat
+whale

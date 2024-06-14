@@ -1,0 +1,10 @@
+butterfly
+bee
+ant
+dragonfly
+ladybug
+beetle
+spider
+mosquito
+grasshopper
+mantis

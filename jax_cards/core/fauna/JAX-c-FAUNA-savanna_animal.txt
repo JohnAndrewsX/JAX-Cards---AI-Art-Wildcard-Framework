@@ -1,0 +1,10 @@
+lion
+elephant
+giraffe
+zebra
+cheetah
+wildebeest
+hyena
+rhino
+ostrich
+meerkat

@@ -1,0 +1,11 @@
+__JAX-e-POI-mainz__
+__JAX-e-POI-ludwigshafen__
+__JAX-e-POI-koblenz__
+__JAX-e-POI-trier__
+__JAX-e-POI-kaiserslautern__
+__JAX-e-POI-worms__
+__JAX-e-POI-speyer__
+__JAX-e-POI-neustadt_an_der_weinstrasse__
+__JAX-e-POI-neuwied__
+__JAX-e-POI-landau_in_der_pfalz__
+

@@ -1,7 +1,7 @@
 #!/bin/bash
 echo " "
 echo " "
-echo "CREATE WILDCARD FILELIST TXT v0.1"
+echo "CREATE WILDCARD FILELIST TXT v0.2"
 echo "created by JohnAndrewsX"
 echo " "
 echo "Github: github.com/JohnAndrewsX"
@@ -35,7 +35,7 @@ wildcard_files=$(find . -type f -name "JAX*.txt")
   echo "### Simple list"
   for file in $wildcard_files; do
     filename=$(basename "$file" .txt)
-    simple_name=$(echo "$filename" | sed 's/^JAX-c-[A-Z]*-//')
+    simple_name=$(echo "$filename" | sed 's/^JAX-[ce]-POI-//')
     echo "$simple_name"
   done
 } > "$output_file"

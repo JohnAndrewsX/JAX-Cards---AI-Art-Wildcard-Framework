@@ -1,0 +1,5 @@
+__JAX-e-POI-rostock__
+__JAX-e-POI-schwerin__
+__JAX-e-POI-stralsund__
+__JAX-e-POI-greifswald__
+__JAX-e-POI-wismar__

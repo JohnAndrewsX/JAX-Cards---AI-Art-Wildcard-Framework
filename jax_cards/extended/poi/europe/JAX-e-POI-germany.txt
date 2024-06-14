@@ -1,0 +1,16 @@
+__JAX-e-POI-baden_wuerttemberg__
+__JAX-e-POI-bayern__
+__JAX-e-POI-berlin__
+__JAX-e-POI-brandenburg__
+__JAX-e-POI-bremen__
+__JAX-e-POI-hamburg__
+__JAX-e-POI-hessen__
+__JAX-e-POI-mecklenburg_vorpommern__
+__JAX-e-POI-niedersachsen__
+__JAX-e-POI-nordrhein_westfalen__
+__JAX-e-POI-rheinland_pfalz__
+__JAX-e-POI-saarland__
+__JAX-e-POI-sachsen__
+__JAX-e-POI-sachsen_anhalt__
+__JAX-e-POI-schleswig_holstein__
+__JAX-e-POI-thueringen__

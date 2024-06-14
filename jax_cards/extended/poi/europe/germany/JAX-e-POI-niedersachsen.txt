@@ -1,0 +1,10 @@
+__JAX-e-POI-hannover__
+__JAX-e-POI-braunschweig__
+__JAX-e-POI-osnabruck__
+__JAX-e-POI-oldenburg__
+__JAX-e-POI-wolfsburg__
+__JAX-e-POI-gottingen__
+__JAX-e-POI-hildesheim__
+__JAX-e-POI-celle__
+__JAX-e-POI-wilhelmshaven__
+__JAX-e-POI-luneburg__

@@ -1,0 +1,10 @@
+__JAX-e-POI-munich__
+__JAX-e-POI-nuremberg__
+__JAX-e-POI-augsburg__
+__JAX-e-POI-regensburg__
+__JAX-e-POI-wurzburg__
+__JAX-e-POI-ingolstadt__
+__JAX-e-POI-bamberg__
+__JAX-e-POI-rosenheim__
+__JAX-e-POI-passau__
+__JAX-e-POI-landshut__

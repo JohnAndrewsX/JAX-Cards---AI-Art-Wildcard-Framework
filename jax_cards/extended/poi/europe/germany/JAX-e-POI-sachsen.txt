@@ -1,0 +1,10 @@
+__JAX-e-POI-dresden__
+__JAX-e-POI-leipzig__
+__JAX-e-POI-chemnitz__
+__JAX-e-POI-zwickau__
+__JAX-e-POI-plauen__
+__JAX-e-POI-meissen__
+__JAX-e-POI-freiberg__
+__JAX-e-POI-bautzen__
+__JAX-e-POI-gorlitz__
+__JAX-e-POI-radebeul__

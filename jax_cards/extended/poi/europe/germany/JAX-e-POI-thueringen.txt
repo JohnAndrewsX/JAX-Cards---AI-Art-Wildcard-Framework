@@ -1,0 +1,10 @@
+__JAX-e-POI-erfurt__
+__JAX-e-POI-weimar__
+__JAX-e-POI-jena__
+__JAX-e-POI-gotha__
+__JAX-e-POI-eisenach__
+__JAX-e-POI-gera__
+__JAX-e-POI-ilmenau__
+__JAX-e-POI-altenburg__
+__JAX-e-POI-nordhausen__
+__JAX-e-POI-weimarer_land__

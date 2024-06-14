@@ -1,5 +1,5 @@
-__JAX-e-POI-potsdam__
-__JAX-e-POI-cottbus__
-__JAX-e-POI-brandenburg_an_der_havel__
-__JAX-e-POI-oranienburg__
-__JAX-e-POI-frankfurt_oder__
+__JAX-e-POI-potsdam_de__
+__JAX-e-POI-cottbus_de__
+__JAX-e-POI-brandenburg_an_der_havel_de__
+__JAX-e-POI-oranienburg_de__
+__JAX-e-POI-frankfurt_oder_de__

@@ -1,0 +1,5 @@
+__JAX-c-ATMOSPHERE-clear_sky__
+__JAX-c-ATMOSPHERE-cloudy__
+__JAX-c-ATMOSPHERE-rainy__
+__JAX-c-ATMOSPHERE-overcast__
+

@@ -1,0 +1,113 @@
+Accordion
+Alphorn
+Alto Saxophone
+Bagpipes
+Balalaika
+Banjo
+Baritone Saxophone
+Bass Clarinet
+Bass Guitar
+Bassoon
+Bongos
+Bouzouki
+Cello
+Chapman Stick
+Chimes
+Clairon
+Clarinet
+Clavichord
+Concertina
+Congas
+Cor Anglais
+Cornet
+Cymbals
+Didgeridoo
+Djembe
+Dobro
+Double Bass
+Dulcimer
+Ektara
+English Horn
+Erhu
+Euphonium
+Fiddle
+Flamenco Guitar
+Flute
+French Horn
+Gamelan
+Glass Harmonica
+Glockenspiel
+Gong
+Guqin
+Guzheng
+Harmonica
+Harp
+Harpsichord
+Hornpipe
+Hurdy-Gurdy
+Janggu
+Jarana
+Kalimba
+Kazoo
+Kettle Drum
+Kinnor
+Kithara
+Koto
+Lute
+Lyre
+Mandolin
+Maracas
+Marimba
+Mbira
+Melodica
+Metallophone
+Mouth Harp
+Ney
+Oboe
+Ocarina
+Octobass
+Oud
+Pan Flute
+Pennywhistle
+Percussion
+Piccolo
+Piano
+Pipa
+Recorder
+Reed Organ
+Renaissance Lute
+Santoor
+Sarangi
+Saxophone
+Saz
+Shamisen
+Sheng
+Sitar
+Snare Drum
+Sousaphone
+Steel Drums
+Surbahar
+Synthesizer
+Tabla
+Tambourine
+Theremin
+Timbales
+Triangle
+Trombone
+Trumpet
+Tuba
+Ukulele
+Upright Bass
+Veena
+Vibraphone
+Viola
+Violin
+Violoncello
+Vuvuzela
+Washboard
+Whistle
+Wind Chimes
+Wooden Flute
+Xylophone
+Yangqin
+Zither

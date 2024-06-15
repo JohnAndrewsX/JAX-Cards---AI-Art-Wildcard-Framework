@@ -1,0 +1,3 @@
+__JAX-c-ATMOSPHERE-clear_sky__
+__JAX-c-ATMOSPHERE-misty__
+__JAX-c-ATMOSPHERE-hazy__

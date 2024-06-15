@@ -1,0 +1,10 @@
+short
+average height
+tall
+very tall
+giant
+dwarf
+petite
+lanky
+stocky
+athletic

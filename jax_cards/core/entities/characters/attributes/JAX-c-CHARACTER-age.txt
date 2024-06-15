@@ -1,0 +1,10 @@
+child
+teenager
+young adult
+adult
+middle-aged
+senior
+elderly
+infant
+toddler
+preteen

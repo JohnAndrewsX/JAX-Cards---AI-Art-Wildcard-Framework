@@ -1,0 +1,5 @@
+__JAX-c-ATMOSPHERE-stormy__
+__JAX-c-ATMOSPHERE-thunderstorm__
+__JAX-c-ATMOSPHERE-snowy__
+__JAX-c-ATMOSPHERE-windy__
+__JAX-c-ATMOSPHERE-smoggy__

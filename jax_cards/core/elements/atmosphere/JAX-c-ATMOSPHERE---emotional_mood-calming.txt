@@ -1,0 +1,7 @@
+__JAX-c-ATMOSPHERE-clear_sky__
+__JAX-c-ATMOSPHERE-sunny__
+__JAX-c-ATMOSPHERE-dawn__
+__JAX-c-ATMOSPHERE-dusk__
+__JAX-c-ATMOSPHERE-twilight__
+__JAX-c-ATMOSPHERE-rainbow__
+__JAX-c-ATMOSPHERE-aurora__

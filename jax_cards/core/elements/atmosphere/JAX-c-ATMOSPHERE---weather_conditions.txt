@@ -1,0 +1,15 @@
+__jax-c-atmosphere-clear_sky__
+__jax-c-atmosphere-cloudy__
+__jax-c-atmosphere-rainy__
+__jax-c-atmosphere-stormy__
+__jax-c-atmosphere-snowy__
+__jax-c-atmosphere-foggy__
+__jax-c-atmosphere-windy__
+__jax-c-atmosphere-sunny__
+__jax-c-atmosphere-overcast__
+__jax-c-atmosphere-misty__
+__jax-c-atmosphere-hazy__
+__jax-c-atmosphere-smoggy__
+__jax-c-atmosphere-humid__
+__jax-c-atmosphere-dry__
+__jax-c-atmosphere-icy__

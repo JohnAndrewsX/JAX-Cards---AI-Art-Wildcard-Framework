@@ -1,0 +1,4 @@
+__jax-c-atmosphere-night__
+__jax-c-atmosphere-dawn__
+__jax-c-atmosphere-dusk__
+__jax-c-atmosphere-twilight__

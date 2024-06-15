@@ -1,0 +1,4 @@
+__jax-c-atmosphere-eclipse__
+__jax-c-atmosphere-aurora__
+__jax-c-atmosphere-rainbow__
+__jax-c-atmosphere-thunderstorm__

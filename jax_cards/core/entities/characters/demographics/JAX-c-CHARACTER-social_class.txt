@@ -1,0 +1,10 @@
+upper class
+middle class
+working class
+lower class
+wealthy
+poor
+rich
+elite
+aristocrat
+bourgeoisie

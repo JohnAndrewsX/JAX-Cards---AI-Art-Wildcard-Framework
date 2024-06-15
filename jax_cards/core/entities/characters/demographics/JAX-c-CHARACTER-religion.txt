@@ -1,0 +1,10 @@
+christian
+muslim
+jewish
+hindu
+buddhist
+sikh
+aetheist
+agnostic
+pagan
+shinto

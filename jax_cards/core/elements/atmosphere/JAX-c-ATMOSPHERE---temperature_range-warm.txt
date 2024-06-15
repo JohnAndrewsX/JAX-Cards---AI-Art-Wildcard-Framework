@@ -1,0 +1,3 @@
+__JAX-c-ATMOSPHERE-sunny__
+__JAX-c-ATMOSPHERE-tropical__
+__JAX-c-ATMOSPHERE-desert__

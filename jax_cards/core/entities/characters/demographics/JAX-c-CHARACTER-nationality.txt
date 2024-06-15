@@ -1,0 +1,10 @@
+american
+british
+canadian
+australian
+chinese
+japanese
+indian
+french
+german
+brazilian

@@ -1,0 +1,104 @@
+Adumu
+Allegro
+An Dro
+Bachata
+Ballet
+Ballet Folklorico
+Ballroom Dance
+Belly Dance
+Bharatanatyam
+Bolero
+Bomba
+Bon Odori
+Breakdance
+Bujonesque
+Butoh
+Can-Can
+Capoeira
+Ceilidh
+Cha-Cha-Cha
+Charleston
+Cheoyongmu
+Cossack Dance
+Country Dance
+Cumbia
+Dancehall
+Disco
+East Coast Swing
+Fandango
+Farruca
+Flamenco
+Foxtrot
+Funky Chicken
+Gigue
+Haka
+Hip Hop
+Hora
+Hula
+Ice Dance
+Jazz Dance
+Jig
+Jive
+Kabuki
+Kizomba
+Krumping
+Kuduro
+Kukeri
+K-Pop Dance
+Lambada
+Lindy Hop
+Lion Dance
+Macarena
+Malambo
+Mambo
+Merengue
+Milonga
+Minuet
+Modern Dance
+Moonwalk
+Morris Dance
+Noh Mai
+Paso Doble
+Pavane
+Pizzica
+Polka
+Quadrille
+Quickstep
+Raqs Sharqi
+Reel
+Reggaeton
+Rhumba
+Ritual Dance
+Rock 'n' Roll
+Rumba
+Salsa
+Samba
+Samba de Gafieira
+Sardana
+Schuhplattler
+Sega
+Sevillanas
+Shag
+Shimmy
+Shuffle Dance
+Slow Dance
+Soca
+Step Dance
+Street Dance
+Swing Dance
+Tango
+Tap Dance
+Tarantella
+Traditional Korean Dance
+Twist
+Ukrainian Hopak
+Vals
+Viennese Waltz
+Waacking
+Waltz
+West Coast Swing
+Yakshagana
+Zamba
+Zapateado
+Zouglou
+Zumba

@@ -1,0 +1,7 @@
+__jax-c-atmosphere-tropical__
+__jax-c-atmosphere-desert__
+__jax-c-atmosphere-mountain__
+__jax-c-atmosphere-forest__
+__jax-c-atmosphere-urban__
+__jax-c-atmosphere-rural__
+__jax-c-atmosphere-coastal__

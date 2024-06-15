@@ -1,0 +1,10 @@
+underweight
+average weight
+overweight
+obese
+muscular
+slim
+plump
+chubby
+fit
+lean

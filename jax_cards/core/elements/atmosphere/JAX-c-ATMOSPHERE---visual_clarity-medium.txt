@@ -1,0 +1,6 @@
+__JAX-c-ATMOSPHERE-cloudy__
+__JAX-c-ATMOSPHERE-overcast__
+__JAX-c-ATMOSPHERE-windy__
+__JAX-c-ATMOSPHERE-tropical__
+__JAX-c-ATMOSPHERE-desert__
+__JAX-c-ATMOSPHERE-mountain__

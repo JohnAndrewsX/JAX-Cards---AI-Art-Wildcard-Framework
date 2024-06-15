@@ -1,0 +1,6 @@
+__JAX-c-ATMOSPHERE-eclipse__
+__JAX-c-ATMOSPHERE-rainbow__
+__JAX-c-ATMOSPHERE-dawn__
+__JAX-c-ATMOSPHERE-dusk__
+__JAX-c-ATMOSPHERE-twilight__
+__JAX-c-ATMOSPHERE-thunderstorm__

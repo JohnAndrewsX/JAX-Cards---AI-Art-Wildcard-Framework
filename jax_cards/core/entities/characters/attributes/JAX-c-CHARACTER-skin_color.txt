@@ -1,0 +1,10 @@
+pale
+fair
+light
+medium
+olive
+dark
+brown
+black
+alabaster
+caramel

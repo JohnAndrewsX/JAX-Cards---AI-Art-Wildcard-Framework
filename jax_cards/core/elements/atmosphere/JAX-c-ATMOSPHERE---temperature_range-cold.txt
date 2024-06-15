@@ -1,0 +1,6 @@
+__JAX-c-ATMOSPHERE-snowy__
+__JAX-c-ATMOSPHERE-icy__
+__JAX-c-ATMOSPHERE-foggy__
+__JAX-c-ATMOSPHERE-mountain__
+__JAX-c-ATMOSPHERE-dawn__
+__JAX-c-ATMOSPHERE-dusk__

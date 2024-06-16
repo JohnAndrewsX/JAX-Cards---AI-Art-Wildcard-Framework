@@ -1,4 +1,4 @@
-# JAX Wildcard Project
+# JAX Cards - AI Art Wildcard Framework
 
 Welcome to the JAX Wildcard Project! This repository is a comprehensive collection of wildcards for use with generative AI tools like Fooocus and Stable Diffusion. Our wildcards are designed to enhance the versatility and creativity of your AI-generated content, offering a wide range of options across various categories.
 

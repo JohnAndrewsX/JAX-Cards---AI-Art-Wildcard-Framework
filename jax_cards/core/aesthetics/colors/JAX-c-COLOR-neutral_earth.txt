@@ -1,2 +1,2 @@
 __JAX-c-COLOR-neutral__
-__JAX-c-COLOR-earth_tones__
+__JAX-c-COLOR-earth__
